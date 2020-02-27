@@ -36,4 +36,13 @@ Use model functions from https://towardsdatascience.com/modeling-functions-78704
 Perform Regression when crushing growth (taking the data from a country to be static):
 Results show that taking out the country with the highest growth (Korea) has a bigger effect than taking out the country with highest count (International Conveyance from Japan).
 
-
+To plot scatter plot and regression curve on same plot:
+1. Import both tables into Tableau
+2. Open new sheet. 
+3. Go to Data>Edit Relationships...
+4. Ensure both tables share a column for days
+5. Drag Days and Predicted values into columns and rows
+6. Drag Confirmed values into rows.
+7. Select confirmed values, right-click, and select dual axis
+8. Right click on the right axis and click Synchronize Axes
+9. Right click on the right axis and disable Show Header
