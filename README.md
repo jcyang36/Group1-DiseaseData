@@ -58,4 +58,4 @@ To plot three curves on same plot:
 8. In Analysis>Stack Marks, select Off.
 9. Change the type of mark in the "Marks" pane drop down to "Line".
 10. To edit the mark labels, on the right legend bar, right click on each label and select "Edit Aliases".
-11. To display the mark labels, right click on each curve line, select "Mark Labels", and select "Always show".  
+11. To display the mark labels, right click on each curve line, select "Mark Label", and select "Always show".  
