@@ -56,5 +56,5 @@ To plot three curves on same plot:
 6. Remove any measure values that are not needed. Remove the predicted cases that were put in Rows in step 3.  
 7. Ensure that the type of mark in the "Marks" pane drop down menu is "Area".
 8. In Analysis>Stack Marks, select Off.
-
+9. Change the type of mark in the "Marks" pane drop down to "Line".
 
